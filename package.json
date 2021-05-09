@@ -228,7 +228,7 @@
     "jquery": "^3.2.1",
     "jwt-decode": "^2.2.0",
     "loadash": "0.0.1",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.21",
     "material-design-icons": "^3.0.1",
     "material-ui": "^0.18.0",
     "minimist": "1.2.0",
